@@ -1,1 +1,1 @@
-*Emphasize* _Project on GIT,Vagrant and Virtual box_
+_Vagrant_
